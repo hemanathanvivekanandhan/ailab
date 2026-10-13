@@ -1,0 +1,4 @@
+PS C:\Users\jagat\documents\ailab> python -u "c:\Users\jagat\documents\ailab\ex01\ex01.py"
+
+Enter the name that you wanna search: Eve
+FoundEve: {'name': 'Eve', 'age': 45, 'city': 'Phoenix'}

@@ -1,0 +1,9 @@
+PS C:\Users\jagat\documents\ailab> python -u "c:\Users\jagat\documents\ailab\ex07\ex07.py"
+
+[GaussianNB] Test accuracy: 0.900
+Forward-looking note: suitable for continuous features with class-conditional normality.
+
+[MultinomialNB] Test accuracy: 0.500
+Vocabulary: ['buy', 'discount', 'meeting', 'project']
+
+Thus, both Naive Bayes models were trained, evaluated, and executed successfully.

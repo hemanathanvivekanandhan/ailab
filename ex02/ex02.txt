@@ -1,0 +1,7 @@
+PS C:\Users\jagat\documents\ailab> python -u "c:\Users\jagat\documents\ailab\ex02\ex02.py"
+
+Solution found: [5, 2, 4, 7, 0, 3, 1, 6]
+
+PS C:\Users\jagat\documents\ailab> python -u "c:\Users\jagat\documents\ailab\ex02\ex02.py"
+
+No Solution found within the maximum number of steps

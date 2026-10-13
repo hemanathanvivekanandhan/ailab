@@ -1,0 +1,3 @@
+(.venv) PS E:\lab> python -u "e:\lab\ex10.py"         
+Shortest Path: A -> B -> D -> F -> G
+Total Cost: 8

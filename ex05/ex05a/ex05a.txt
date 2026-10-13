@@ -1,0 +1,3 @@
+PS C:\Users\jagat\documents\ailab> python -u "c:\Users\jagat\documents\ailab\ex05a\ex05a.py"
+
+The knowledge base is satisfiable.

@@ -1,0 +1,4 @@
+PS C:\Users\jagat\documents\ailab> python -u "c:\Users\jagat\documents\ailab\ex06\ex06.py"
+
+Forward Chaining: Goal F -> True | Facts: {'F', 'E', 'A', 'C', 'D', 'B'}
+Backward Chaining: Goal F -> True

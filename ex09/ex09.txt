@@ -1,0 +1,5 @@
+PS C:\Users\jagat\documents\ailab> python -u "c:\Users\jagat\documents\ailab\ex09\ex09.py"
+
+Forward Probability of sequence: 0.033612
+Viterbi best path probability: 0.01344
+Most likely hidden states: ['Sunny', 'Rainy', 'Rainy']
